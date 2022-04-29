@@ -58,7 +58,7 @@ class PaymentMethodWidget extends StatelessWidget {
                             title,
                             style: TextStyle(
                                 color: const Color(0xff1A1A1A),
-                                fontSize: size.height * 0.023,
+                                fontSize: size.height * 0.020,
                                 fontWeight: FontWeight.bold),
                           ),
                           SizedBox(
@@ -67,7 +67,7 @@ class PaymentMethodWidget extends StatelessWidget {
                           Text(
                             subtitle,
                             style: TextStyle(
-                                color: Color(0xff6C738A),
+                                color: const Color(0xff6C738A),
                                 fontSize: size.height * 0.018),
                           )
                         ],
