@@ -2,7 +2,7 @@
 
 This is an only ui application where the experience is the most important, in this project I'll turn a boring UI navigation and images to full animation experience.
 
-This project only works for practicing animations and UX, it will never works as a real payment process.
+**This project only works for practicing animations and UX, it will never works as a real payment process.**
 
 ## The UI
 
@@ -12,13 +12,13 @@ A good UI design and full color pallet can make a big difference for the user, w
 
 Colors, images and the nice design are from _Ashish Chutake_ in Uplabs site, here is the [link](https://www.uplabs.com/posts/payment-flow-for-e-commerce).
 
-Th next gif shows how navigation and feeling is BEFORE applying UX:
+The next gif shows how navigation and feeling is BEFORE applying Animation:
 
 ![UI Navigation](gifs/ui.gif)
 
 Don't forget to see all packages I used in **pubspec.yaml**.
 
-## The UX
+## The Animation
 
 _IN PROCESS_
 
